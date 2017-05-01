@@ -1,0 +1,19 @@
+.masthead-nav > .active > a,
+.masthead-nav > .active > a:hover,
+.masthead-nav > .active > a:focus {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+#bground{
+  width: 100%;
+  background: rgba(200, 54, 54, 0.5);
+}
+
+.lead{
+  color: #ffffff;
+}
+
+#videocontainer{
+  display:none;
+}
